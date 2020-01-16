@@ -8,6 +8,8 @@
 - 東京都
 - パスタ食べろ！
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/D_drAAgon?ref_src=twsrc%5Etfw">Tweets by D_drAAgon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Skills
 - お手玉、メンコ
 - 刺客
