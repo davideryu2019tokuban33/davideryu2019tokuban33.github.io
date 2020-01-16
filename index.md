@@ -3,7 +3,7 @@
 
 ![自分の写真](cap.png)
 
-## profile
+# profile
 - 折原ダビデ竜（D_drAAgon）
 - 東京都
 - パスタ食べろ！
@@ -12,7 +12,7 @@
 - お手玉、メンコ
 - 刺客
 
-#＃ Works
+## Works
 - [動く Web ページコンテスト2019冬](https://progedu.github.io/web-contests/webcontest2019-winter/)
 
 ## Contact
